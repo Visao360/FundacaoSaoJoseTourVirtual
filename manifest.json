@@ -36,9 +36,9 @@
    "src": "misc/icon64.png"
   }
  ],
- "name": "Fundação São José",
  "start_url": "index.htm?installed=true",
  "display": "fullscreen",
- "theme_color": "#FFFFFF",
- "background_color": "#FFFFFF"
+ "background_color": "#FFFFFF",
+ "name": "Fundação São José",
+ "theme_color": "#FFFFFF"
 }
